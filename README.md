@@ -4,5 +4,5 @@
 https://desafio5-api-frontend.vercel.app/
 
 ## Link para o respositório do front-end:
-https://github.com/patriciasanttos/desafio5-API-frontend
+https://github.com/JohnJA12/Desafio05-front
 
